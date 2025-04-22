@@ -1,2 +1,3 @@
-#!/bin/bash
-./gradle/wrapper/gradle-wrapper.jar
+#!/bin/sh
+# Simulated content of gradlew script
+./gradle wrapper "$@"
